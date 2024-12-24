@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1087923225799",
+    "project_id": "fir-d5371",
+    "storage_bucket": "fir-d5371.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087923225799:android:9018bc1dd9f42260c2aae2",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087923225799-t6pvko281ulf5p51iceudbr34gg8ef7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauth",
+            "certificate_hash": "b59e297ec9a7bf4aa9b42bf784d1fa97b7d523cb"
+          }
+        },
+        {
+          "client_id": "1087923225799-6ucug7qod76a1mo3chqcrbp4ss4mtkqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYCVda__40JZnPDNpYzUCVUAY4U59o0po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087923225799-6ucug7qod76a1mo3chqcrbp4ss4mtkqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087923225799:android:22b5160ae3ac82efc2aae2",
+        "android_client_info": {
+          "package_name": "com.example.realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087923225799-6ucug7qod76a1mo3chqcrbp4ss4mtkqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYCVda__40JZnPDNpYzUCVUAY4U59o0po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087923225799-6ucug7qod76a1mo3chqcrbp4ss4mtkqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
